@@ -1,6 +1,6 @@
 Ridhwan Muttaqien - HCK06
 
-Deployment Link :
+Deployment Link : https://huggingface.co/spaces/Ridhwanm/final_project
 
 Loan Risk Prediction
 
